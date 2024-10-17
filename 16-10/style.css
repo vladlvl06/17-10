@@ -1,0 +1,54 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+
+h1 {
+    color: brown;
+}
+
+#meuBotao3 {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: darkred;
+    color: crimson;
+    border: none;
+    border-radius: 5px;
+}
+
+#meuBotao3:hover {
+    background-color: navy;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: darkred;
+    color: crimson;
+    border: none;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: navy;
+}
+
+#texto {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+#meuBotao4 {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 5px;
+}
+
+#imagem {
+    margin-top: 20px;
+    max-width: 100%; 
+}
